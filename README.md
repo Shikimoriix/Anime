@@ -19,7 +19,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * Free anime websites are always struggling with copyright claims, file an issue if a broken link is encountered.
 * I am **NOT** promoting the use of free anime websites by any means.
 
-# Contents
+<details><h3>
+<summary>Contents</summary></h3>
+
 * [Anime](#Anime)
   * [Streaming](#Streaming)
   * [Downloading](#Downloading)
@@ -44,6 +46,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
   * [News about Manga](#News-about-Manga) 
 
 
+</details>
 <h3 align="center">
     ─「 Anime 」─
 </h3>
