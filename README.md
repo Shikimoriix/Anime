@@ -20,7 +20,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * I am **NOT** promoting the use of free anime websites by any means.
 
 
-### Contents <details> 
+### Contents
+
+<details> 
 
 * [Anime](#Anime)
   * [Streaming](#Streaming)
