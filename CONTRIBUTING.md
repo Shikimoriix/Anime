@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
     ─「 Contribution Guidelines 」─
-</h2>
+</h3>
 
 Your Contributions And Suggestions Are Always Welcome.
 
