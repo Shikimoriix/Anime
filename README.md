@@ -1,3 +1,5 @@
+<img src="https://github.com/ikx7a/Anime/blob/main/Resources/Shikimori%20Not%20Just%20A%20Cute.mp4">
+
 <h3 align="center">
     ─「 Awesome Anime Sources 」─
 </h3>
