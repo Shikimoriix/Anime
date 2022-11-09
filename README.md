@@ -1,5 +1,9 @@
-<img src="https://github.com/ikx7a/Anime/blob/main/Resources/Shikimori%20Not%20Just%20A%20Cute.mp4">
+<details>
+<summary> Shikimori's Not Just A Cutie</summary>
 
+https://user-images.githubusercontent.com/112969240/200733818-9666eb26-a555-4a82-a696-110deb2025fc.mp4
+
+</details>
 <h3 align="center">
     ─「 Awesome Anime Sources 」─
 </h3>
