@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
     ─「 Awesome Anime Sources 」─
-</h2>
+</h3>
 A curated list of all things anime - streaming/downloading/reading/tracking/forums.
 
 <h3 align="center">
@@ -13,7 +13,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 
 <h3 align="center">
-    ─「 NOTE 」─
+    ─「 Note 」─
 </h3>
 
 * Free anime websites are always struggling with copyright claims, file an issue if a broken link is encountered.
