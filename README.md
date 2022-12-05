@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="">
+
+</div>
 <details>
 <summary> Shikimori's Not Just A Cutie</summary>
 
