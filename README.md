@@ -309,6 +309,8 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [shikimori.one](https://shikimori.one/) - Russian
 
 <br>
-<div align="center">
 
-[CONTRIBUTING](https://github.com/ikx7a/Anime/blob/main/CONTRIBUTING.md)
+We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/ikx7a/Anime/blob/main/CONTRIBUTING.md) for details.
+
+
+
