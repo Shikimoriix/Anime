@@ -308,3 +308,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [otakuusamagazine.com](https://otakuusamagazine.com)
 * [shikimori.one](https://shikimori.one/) - Russian
 
+<br>
+<div align="center">
+
+[CONTRIBUTING](https://github.com/ikx7a/Anime/blob/main/CONTRIBUTING.md)
