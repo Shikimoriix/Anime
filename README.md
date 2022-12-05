@@ -308,7 +308,3 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [otakuusamagazine.com](https://otakuusamagazine.com)
 * [shikimori.one](https://shikimori.one/) - Russian
 
-```
-Fun Fact I Love Zero Two & Shikimori-San.
-```
-
