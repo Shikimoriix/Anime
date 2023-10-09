@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ikx7a/Anime/blob/main/Resources/__main__py.jpg">
+<img src="https://graph.org/file/8e3af2d17a8fe30084e1f.jpg">
 
 </div>
 <h3 align="center">
