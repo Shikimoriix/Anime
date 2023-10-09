@@ -311,12 +311,10 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 <br>
 
-We Welcome Contributions!
-
-Please see [CONTRIBUTING.md](https://github.com/ikx7a/Anime/blob/main/CONTRIBUTING.md) for details.
+We Welcome Contributions! Please see [CONTRIBUTING.md](https://github.com/ikx7a/Anime/blob/main/CONTRIBUTING.md) for details.
 
 
 
-<div align="centre">
+<div align="center">
 
 Copyright © [@ikx7a](https://github.com/ikx7a)
