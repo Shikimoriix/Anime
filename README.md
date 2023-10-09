@@ -60,6 +60,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 ### Streaming
 * [9anime.to](https://www2.9anime.to/)
+* [aniwatch.to](https://aniwatch.to/)
 * [anime8.ru](https://anime8.ru/)(Downloading and Streaming)
 * [animebuff.ru](https://animebuff.ru/) - Russian dubbing
 * [animedao.to](https://animedao.to/)
@@ -316,3 +317,6 @@ Please see [CONTRIBUTING.md](https://github.com/ikx7a/Anime/blob/main/CONTRIBUTI
 
 
 
+<div align="centre">
+
+Copyright © [@ikx7a](https://github.com/ikx7a)
